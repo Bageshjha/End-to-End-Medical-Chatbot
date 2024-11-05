@@ -62,7 +62,7 @@ for filepath in "${list_of_files[@]}"; do
 done
 
 ### Step 4: Run the application
-echo -e "\nTo run the application, use the command:\npython app.py"
+To run the application, use the command: python app.py
 
 ### Additional Usage Instructions
  #### Usage Instructions
